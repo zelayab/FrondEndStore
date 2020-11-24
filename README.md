@@ -1,2 +1,10 @@
-# FrondEndStore
-Pagina Frond End Store del curso de Cluster Tec de Catamarca sobre HTML Y CSS
+# FrontEndStore
+
+
+[FrontEndStore](https://bzfrondendstoregrid.netlify.app/)
+
+⭐ **Acerca del Proyecto**
+- Página creada para el curso de Front End del CTC
+
+
+
